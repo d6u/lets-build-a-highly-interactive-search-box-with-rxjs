@@ -25,10 +25,6 @@ SpanishDict.com search box
 
 **DEMO**
 
-What does the diff look like when adding new feature
-
-**Diff**
-
 Can we improve
 
 **DEMO**
@@ -62,7 +58,7 @@ Observable represents values over time. Reactive Extension is an implementation 
 
 ## Example on Combination of Multiple Consumers
 
-`subscribe`, `publish`, `share`
+See hot vs cold section
 
 ## Example on Error Handling
 
@@ -74,6 +70,10 @@ Observable represents values over time. Reactive Extension is an implementation 
 
 ## Hot vs Cold Observables
 
-`publish`, `connect`
+`subscribe`, `share`, `publish`, `connect`
+
+## Testing and Debugging
+
+https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/testing.md
 
 ## Who Uses Observables

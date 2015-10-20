@@ -1,0 +1,26 @@
+{
+  "name": "lets-build-a-highly-interactive-search-box-with-rxjs",
+  "version": "1.0.0",
+  "description": "## Issues of Highly Interactive UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d6u/lets-build-a-highly-interactive-search-box-with-rxjs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d6u/lets-build-a-highly-interactive-search-box-with-rxjs/issues"
+  },
+  "homepage": "https://github.com/d6u/lets-build-a-highly-interactive-search-box-with-rxjs#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "web-playground": "^0.3.0"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
